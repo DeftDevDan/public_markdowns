@@ -51,7 +51,6 @@ Python is a general purpose coding language that emphasizes readability. It enab
             "language": "en",
             "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amorelandra-{width}x{height}.jpg"
             }
-            ...
         ],
         "pagination": {
             "cursor": "eyJiIjpudWxsLCJhIjp7Ik9mZnNldCI6MX19"

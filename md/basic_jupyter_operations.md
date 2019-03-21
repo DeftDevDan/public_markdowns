@@ -1,3 +1,5 @@
+## Basic Jupyter Operations
+
 The Jupyter Notebook's amazing versatility arises because it can let you process your inputs AND see your outputs or visualizations in the same location. 
 
 Jupyter Notebooks organizes code into CELLS.

@@ -10,7 +10,7 @@ Jupyter Notebook is a dynamic web application that allows the user to both input
 
 # Python
 
-Python is a general purpose coding language that emphasizes readability. It enables constructs that enable clear programming on both a small and large scale. It is particularly effective when working with vary large data sets.
+Python is a general purpose coding language that emphasizes readability. It enables constructs that enable clear programming on both a small and large scale. It is particularly effective when working with very large data sets.
 
 # Coding Terms
 

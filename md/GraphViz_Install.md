@@ -16,9 +16,9 @@ To install Graphviz for windows, head to the following URL: <https://graphviz.gi
  1. Make sure that you choose to download, `graphviz-2.38.msi`.
 2. Click `Next` through all three installation prompts and wait for Graphviz to install
 3. Next, head over to `System Properties`, `Advanced`, `Environment Variables`.
- <img src='images/graphviz-website.png' width='400px'>
+ <img src='../images/graphviz-website.png' width='400px'>
  4. Under System variables, find `Path` and click `Edit...`.
- <img src='images/sys-var-1.png' width='400px'>
+ <img src='../images/sys-var-1.png' width='400px'>
  5. Click `New` and by default, Graphviz should have been installed to `C:\Program Files (x86)\Graphviz2.38\bin`. So copy that file path and click `OK`.
- <img src="images/sys-var-2.png" width="400px">
+ <img src="../images/sys-var-2.png" width="400px">
  6. Finally, restart Jupyter notebook and you're all set!
